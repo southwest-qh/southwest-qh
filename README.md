@@ -37,3 +37,6 @@ I've worked in both banking and pharmaceutical industry doing analytics in total
   - Marketing Analytics
   - Recommender Systems
   - Pyspark
+
+- In my spare time, I like baking: 🍪 🍰 🍞 🥮 ...
+  
