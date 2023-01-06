@@ -19,13 +19,11 @@ I've worked in both banking and pharmaceutical industry doing analytics in total
 - 🏔 Two years tenure in pharmaceutical industry.
   - ✨ __90%__ SAS skills used later learnt in this journey
   - ✨ Most "statistically" significant industry
-  
-  ![bio_stat](biostat_exp.png)
+   <img src="biostat_exp.png" width="750" title="bio_stat">
   
 - 🏛 Seven years tenure in analytics and modeling in credit risk analytics.
   - ✨ Modeling for Banking regulatory requirements
-  
-  ![banking_stat](banking_exp.png)
+  <img src="banking_exp.png" width="600" title="banking_stat">
   
 - 🔭 I’m currently working on:
   - Maintaining my Data Science Playground repository which includes
