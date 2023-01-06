@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've worked in both banking and pharmaceutical industry doing analytics in total for 9 years. 
+- 🏔 Two years tenure in pharmaceutical industry.
+  - ✨ __90%__ SAS skills used later learnt in this journey
+  - ✨ Most "statistically" significant industry
+  
+  ![bio_stat](biostat_exp.png)
+  
+- 🏛 Seven years tenure in analytics and modeling in credit risk analytics.
+  - ✨ Modeling for Banking regulatory requirements
+  
+  ![banking_stat](banking_exp.png)
+  
+- 🔭 I’m currently working on:
+  - Maintaining my Data Science Playground repository which includes
+    - Credit risk modeling quick start 
+      - summary of the analytics toolbox I've used over the years 
+      - sample projects using public available data
+    - Machine learning (ML) concepts and methodology simply explained
+    - Miscellaneous projects using the ML techniques and tech-stacks: data visualization, flask app for model development, etc.
+  
+- 🌱 I’m currently learning:
+  - Marketing Analytics
+  - Recommender Systems
+  - Pyspark
