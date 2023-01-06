@@ -21,7 +21,7 @@ I've worked in both banking and pharmaceutical industry doing analytics in total
   - ✨ Most "statistically" significant industry
    <img src="biostat_exp.png" width="789" title="bio_stat">
   
-- 🏛 Seven years tenure in analytics and modeling in credit risk analytics.
+- 🏛 Seven years tenure in analytics and modeling in credit risk for lending book.
   - ✨ Modeling for Banking regulatory requirements
   <img src="banking_exp.png" width="789" title="banking_stat">
   
